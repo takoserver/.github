@@ -6,5 +6,4 @@ takoserverは「たこ」が趣味でやってるwebサービスです
 ##サービスまたは開発中のサービス
 ##takos(開発中)
 takosは国産オープンソース分散型チャットサービスでLINEにかわる新世代のチャットサービスを目指しています。
-
-This site was built using [Takos link](https://github.com/takoserver/takos).
+[takos](https://github.com/takoserver/takos).
