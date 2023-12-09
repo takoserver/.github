@@ -1,5 +1,8 @@
 ## takoserver project
 
+takoserverは「たこ」が趣味でやってるwebサービス
+
+![takoserver logo](https://dev.takoserver.com/logo-mine.jpg)
 <!--
 
 **Here are some ideas to get you started:**
