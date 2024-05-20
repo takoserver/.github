@@ -1,9 +1,9 @@
-### takoserver project
 
-takoserverは「たこ」が趣味でやってるwebサービスです
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_timeline.svg)](https://github.com/takoserver/takos.jp/commits)
+[![Issue status graph](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_issues.svg)](https://github.com/takoserver/takos.jp/issues)
+[![Pull request status graph](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_prs.svg)](https://github.com/takoserver/takos.jp/pulls)
+[![Trending topics](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_words.svg)](https://github.com/takoserver/takos.jp/commits)
+[![Top contributors](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_users.svg)](https://github.com/takoserver/takos.jp/graphs/contributors)
+[![Activity map](https://images.repography.com/50941333/takoserver/takos.jp/recent-activity/-GRVRfudIlBgUlUM2Qr565LerHneqwS6T9gS9KKlQqg/Vf-8VEkaHJv97XS9mFd1gAfIDRfpPEBJnvFZL9Rg0tw_map.svg)](https://github.com/takoserver/takos.jp/commits)
 
-![takoserver logo](https://dev.takoserver.com/logo-mine.jpg)
-## サービスまたは開発中のサービス
-## takos(開発中)
-takosは国産オープンソース分散型チャットサービスでLINEにかわる新世代のチャットサービスを目指しています。
-[takos](https://github.com/takoserver/takos).
